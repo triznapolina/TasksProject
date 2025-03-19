@@ -27,8 +27,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        //setTheFirstAndSecondTask();
-        //setTheThirdTask();
+        setTheFirstAndSecondTask();
+        setTheThirdTask();
         setTheStarTask();
     }
 
