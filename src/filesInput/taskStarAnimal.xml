@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal>
+        <name>Lion</name>
+        <species>Panthera leo</species>
+        <habitat>Savanna</habitat>
+        <diet>Carnivore</diet>
+    </animal>
+    <animal>
+        <name>Elephant</name>
+        <species>Elephas maximus</species>
+        <habitat>Grassland</habitat>
+        <diet>Herbivore</diet>
+    </animal>
+    <animal>
+        <name>Penguin</name>
+        <species>Spheniscidae</species>
+        <habitat>Antarctic</habitat>
+        <diet>Carnivore</diet>
+    </animal>
+</animals>
